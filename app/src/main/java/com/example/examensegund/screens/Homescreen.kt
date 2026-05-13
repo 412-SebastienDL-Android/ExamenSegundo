@@ -133,12 +133,12 @@ fun HomeScreen(
                             modifier = Modifier.align(Alignment.BottomStart)
                         ) {
                             Text(
-                                text = "Good Morning!",
+                                text = "Buenos dias",
                                 style = MaterialTheme.typography.bodyMedium,
                                 color = Color.White.copy(alpha = 0.8f)
                             )
                             Text(
-                                text = "Juan Frausto",
+                                text = "Sebastien Davalos",
                                 style = MaterialTheme.typography.titleLarge,
                                 fontWeight = FontWeight.Bold,
                                 color = Color.White

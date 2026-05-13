@@ -52,7 +52,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 
 @Composable
 fun DetailScreen(
-    id: Int,
+    id: String,
     navController: NavController
 ) {
     val BASE_URL = "https://musicapi.pjasoft.com/"
